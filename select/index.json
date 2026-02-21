@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Million Films",
+  "base_artist": "KOBUKURO",
+  "createdAt": "2026-02-21T07:03:31.487425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Million Films",
+      "artist": "Kobukuro",
+      "has_synced": true,
+      "path": "select/01_Million_Films_Kobukuro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/02_Million_Films_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/03_Million_Films_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/04_Million_Films_コブクロ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Million Films",
+      "artist": "KOBUKURO",
+      "has_synced": true,
+      "path": "select/05_Million_Films_KOBUKURO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_01_Million_Films_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_02_Million_Films_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_03_Million_Films_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_04_Million_Films_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_05_Million_Films_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_06_Million_Films_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_07_Million_Films_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_08_Million_Films_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_09_Million_Films_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Million Films",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_10_Million_Films_コブクロ.txt"
+    }
+  ]
+}
